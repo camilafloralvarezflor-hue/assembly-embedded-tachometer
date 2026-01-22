@@ -33,3 +33,7 @@ Working with limited RAM on the HC08 required careful register management. I opt
 /docs: Technical report (PDF) and schematics.
 
 /sim: (Optional) Proteus simulation files or waveforms.
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/16b12023-ec53-41c3-9d72-e22e320ba67a" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b3a06ea-379a-415e-b255-eac2c7a28558" />
+
+
